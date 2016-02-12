@@ -59,6 +59,7 @@ namespace anonymous
     {
         string Name { get; }
         void Create(IMatrix matrix);
+        //уху! первый коммент.
     }
 
     interface ISolver
